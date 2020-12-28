@@ -1,1 +1,1 @@
-Subindo repositório
+Repositório destinado ao curso de HTML5 e CSS3
