@@ -1,0 +1,39 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: linear-gradient(90deg, #59B0C2,#71E0F5);
+}
+.conteudo{
+    background-color: white;
+    padding:20px;
+    width: 1000px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px #59B0C2;
+}
+.tituloh1{
+    text-align: center;
+    color:#597175;
+}
+.tituloh2{
+    color: cadetblue;
+}
+.tituloh21{
+    color: #366B75;
+}
+.tituloh22{
+    color:#1FC2A7;
+}
+.tituloh23{
+    color: #36756B;
+}
+p{
+    text-align: justify;
+
+}
+.botao{
+    padding: 20px;
+    background-color: #366B75;
+
+}
